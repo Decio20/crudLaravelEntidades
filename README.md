@@ -1,3 +1,11 @@
+El CRUD contiene dos entidades Alumnos y Carreras:
+![image](https://github.com/user-attachments/assets/67d4c345-f656-4473-97e9-eef8571ac4d8)
+
+![image](https://github.com/user-attachments/assets/d2d98635-e664-494b-9825-ab1e8e8b06e8)
+
+![image](https://github.com/user-attachments/assets/ddf3b291-9827-401e-bb9d-5ed8ebc4e0dc)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
