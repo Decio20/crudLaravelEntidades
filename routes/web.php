@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\AlumnosController;
+use App\Http\Controllers\CarrerasController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +16,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('plantilla');
 });
+
+Route::resource('carreras', CarrerasController::class);
+
+Route::resource('alumnos', AlumnosController::class);
